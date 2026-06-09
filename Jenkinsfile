@@ -5,7 +5,7 @@ pipeline {
 
         stage('Clone') {
             steps {
-                echo 'Repository cloned successfully'
+                echo 'Repo helooo cloned successfully'
             }
         }
 
